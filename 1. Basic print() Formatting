@@ -1,0 +1,8 @@
+name = "John"
+age = 25
+
+# Using concatenation
+print("Hello, my name is " + name + " and I am " + str(age) + " years old.")
+
+# Using commas
+print("Hello, my name is", name, "and I am", age, "years old.")
