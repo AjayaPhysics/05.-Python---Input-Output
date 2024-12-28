@@ -1,0 +1,5 @@
+name = "Charlie"
+speed = 12.345678
+
+# Using f-strings
+print(f"My name is {name} and I run at {speed:.2f} km/h.")
