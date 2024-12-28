@@ -1,0 +1,7 @@
+name = "Bob"
+items = 5
+price_per_item = 12.99
+total_price = items * price_per_item
+
+# Using the format() method
+print("Hello {}, you purchased {} items at ${:.2f} each. Total: ${:.2f}".format(name, items, price_per_item, total_price))
