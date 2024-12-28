@@ -1,0 +1,5 @@
+name = "Alice"
+score = 95.6789
+
+# Using % formatting
+print("Name: %s, Score: %.2f" % (name, score))
