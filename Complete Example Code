@@ -1,0 +1,20 @@
+# Formatting Outputs in Python
+
+# Basic print formatting
+name = "Alice"
+age = 30
+print("Name:", name, "| Age:", age)
+
+# Using % formatting
+temperature = 36.678
+print("Temperature: %.1f°C" % temperature)
+
+# Using str.format()
+city = "Paris"
+population = 2148327
+print("City: {}, Population: {:,}".format(city, population))
+
+# Using f-strings
+price = 45.6789
+quantity = 3
+print(f"Price per item: ${price:.2f}, Quantity: {quantity}, Total: ${price * quantity:.2f}")
