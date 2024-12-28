@@ -1,0 +1,5 @@
+name = "Emma"
+language = "Python"
+
+# Named placeholders
+print("Hi {user}, welcome to the {lang} course!".format(user=name, lang=language))
