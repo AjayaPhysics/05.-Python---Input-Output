@@ -1,5 +1,5 @@
-name = "John"
-age = 25
+name = "Ajaya"
+age = 40
 
 # Using concatenation
 print("Hello, my name is " + name + " and I am " + str(age) + " years old.")
