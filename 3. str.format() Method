@@ -1,4 +1,4 @@
-name = "Bob"
+name = "Ajaya"
 items = 5
 price_per_item = 12.99
 total_price = items * price_per_item
